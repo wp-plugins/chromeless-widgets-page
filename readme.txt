@@ -2,7 +2,7 @@
 Contributors: celloexpressions
 Tags: Widgets, external, one-page
 Requires at least: 4.0
-Tested up to: 4.1
+Tested up to: 4.3
 Stable tag: 1.0
 Description: Framework for building a page that's largely external to the rest of the site and uses widgets for all of its content.
 License: GPLv2
